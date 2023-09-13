@@ -9,3 +9,6 @@ tests_ros_tel.py - набор автотестов
 
 Объект тесирования: форма регистрации/авторизации сайта: https://b2c.passport.rt.ru
 
+Ссылка на тестирование требований, тест-кейсы, баг-репорты:
+https://docs.google.com/spreadsheets/d/1GSDfCZMpoUaEfGGCwRwwqExfz7tikYY0/edit?usp=sharing&ouid=104355642130243517785&rtpof=true&sd=true
+
